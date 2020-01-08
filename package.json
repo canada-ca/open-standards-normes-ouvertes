@@ -1,0 +1,30 @@
+{
+  "name": "open-standards-normes-ouvertes",
+  "version": "0.0.1",
+  "description": "Open Standards Guidance Draft - Guide des normes ouvertes (Ébauche)",
+  "main": "index.js",
+  "scripts": {
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "spellcheck": "cspell en/**/*.md",
+    "test": "npm run lint && npm run spellcheck && npm run link-check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/open-standards-normes-ouvertes.git"
+  },
+  "author": "Treasury Board of Canada",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/canada-ca/open-standards-normes-ouvertes/issues"
+  },
+  "homepage": "https://github.com/canada-ca/open-standards-normes-ouvertes#readme",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "cspell": "^3.2.8",
+    "glob": "^7.1.2",
+    "markdown-link-check": "^3.7.2",
+    "markdownlint-cli": "^0.18.0"
+  },
+  "dependencies": {}
+}
