@@ -35,25 +35,31 @@ plugins:
   - jekyll-relative-links
 
 defaults:
-  - scope:
+  - 
+    scope:
       path: "" # an empty string here means all files in the project
     values:
       type: "pages"
-  - scope:
+  - 
+    scope:
       path: "en/*"
     values:
       lang: "en"
       layout: "default"
-  - scope:
+  - 
+    scope:
       path: "fr/*"
     values:
       lang: "fr"
       layout: "default"
-  - scope:
+  - 
+    scope:
       path: "fr/normes-ouvertes.md"
     values:
+      lang: "fr"
       ref: "home"
-  - scope:
+  - 
+    scope:
         path: "en/open-standards.md"
       values:
         ref: "home"
