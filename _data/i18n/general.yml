@@ -28,8 +28,8 @@ head:
     en: DRAFT
     fr: VERSION PRÉLIMINAIRE
   draftText:
-    en: This is the latest working copy of these Standards, for the official standards please visit
-    fr: Ceci est une copie de travail de ces normes, pour les normes officielles, veuillez visiter
+    en: This is the latest working copy of this guidance.
+    fr: Ceci est une copie de travail de ces normes.
   here:
     en: here
     fr: ici
@@ -37,8 +37,8 @@ head:
     en: Contribute
     fr: Contribuer
   contributeText:
-    en: Contribute your ideas to the Goverment of Canada Open Source Standards
-    fr: Faites part de vos idées aux Normes Logiciels Libres du gouvernement du Canada
+    en: Contribute your ideas to the Goverment of Canada Guidance on Open Standards
+    fr: Faites part de vos idées au Guide du gouvernement du Canada sur les normes ouvertes
 
 nav:
   home:
