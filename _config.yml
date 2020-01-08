@@ -53,6 +53,10 @@ defaults:
       path: "fr/normes-ouvertes.md"
     values:
       ref: "home"
+  - scope:
+        path: "en/open-standards.md"
+      values:
+        ref: "home"
 
 optional_front_matter:
   remove_originals: true
