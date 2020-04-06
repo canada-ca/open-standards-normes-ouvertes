@@ -24,4 +24,4 @@ Open Standards require a respectful collaborative decision-making process that i
 
 ### 5. Availability
 
-The Government of Canada is committed to Respect for the People and seeks to ensure that Standards adopted by the Goverment of Canada are free of discrimination against persons or endeavour. As such Open Standards must be freely available to ensure that all Canadian Citizens can make use of them regardless of socioeconomic status.
+The Government of Canada is committed to Respect for the People and seeks to ensure that Standards adopted by the Government of Canada are free of discrimination against persons or endeavour. As such Open Standards must be freely available to ensure that all Canadian Citizens can make use of them regardless of socioeconomic status.
