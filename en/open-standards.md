@@ -20,7 +20,7 @@ Decisions are made with impartiality with equity and fairness among participants
 
 ### 4. Collaboration
 
-Open Standards require a respectful collaborative decision-making process that is consensus-based and avoids dependence on any individual supplier or organization. 
+Open Standards require a respectful collaborative decision-making process that is consensus-based and avoids dependence on any individual supplier or organization.
 
 ### 5. Availability
 
