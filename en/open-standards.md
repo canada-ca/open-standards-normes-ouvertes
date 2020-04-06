@@ -16,7 +16,7 @@ Open Standards require advance public notice of proposed standard’s developmen
 
 ### 3. Due Process
 
-Decisions are made with impartiality with equity and fairness among participants, where no one party dominates the development of an Open Standard. Any and all impacted or interested parties in Standard are able to contribute to the development of it and feedback is gathered from as broad as possible.
+Decisions are made with impartiality with equity and fairness among participants, where no one party dominates the development of an Open Standard. Any and all impacted or interested parties in Standard are able to contribute to the development of it and feedback is gathered as broadly as possible.
 
 ### 4. Collaboration
 
