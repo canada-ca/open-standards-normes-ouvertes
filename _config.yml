@@ -61,7 +61,8 @@ defaults:
   - 
     scope:
         path: "en/open-standards.md"
-      values:
+    values:
+        lang: "en"
         ref: "home"
 
 optional_front_matter:
