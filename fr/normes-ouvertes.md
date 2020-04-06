@@ -24,4 +24,4 @@ Les normes ouvertes nécessitent un processus de prise de décision collaboratif
 
 ### 5. Disponibilité
 
-Le gouvernement du Canada est déterminé à respecter le peuple et cherche à faire en sorte que les normes adoptées par le gouvernement du Canada soient exemptes de discrimination contre les personnes ou les efforts. En tant que telles, les normes ouvertes doivent être disponibles gratuitement pour garantir que tous les citoyens canadiens puissent les utiliser indépendamment de leur statut socioéconomique.
+Le gouvernement du Canada est déterminé à respecter le peuple et cherche à faire en sorte que les normes adoptées par le gouvernement du Canada soient exemptes de discrimination contre les personnes ou les efforts. En tant que telles, les normes ouvertes doivent être disponibles gratuitement dans un format ouvert et accessible pour garantir que tous les citoyens canadiens puissent les utiliser indépendamment de leur statut socioéconomique.
