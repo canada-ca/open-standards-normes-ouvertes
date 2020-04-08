@@ -20,7 +20,7 @@ Development decisions are reached with impartiality, equity, and fairness among 
 
 ### 4. Collaboration
 
-The decison-making process is respectful, collaborative, and consensus-based. The process is not dependent on a single supplier or organization.
+The decision-making process is respectful, collaborative, and consensus-based. The process is not dependent on a single supplier or organization.
 
 ### 5. Availability
 
