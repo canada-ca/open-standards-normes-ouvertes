@@ -24,4 +24,4 @@ The decision-making process is respectful, collaborative, and consensus-based. T
 
 ### 5. Availability
 
-The standard is reached from discrimination against persons or endeavour. The specifications of the standard are freely available in an open, accessible format.
+The standard is reached free from discrimination against persons or endeavour. The specifications of the standard are freely available in an open, accessible format.

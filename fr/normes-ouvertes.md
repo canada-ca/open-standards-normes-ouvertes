@@ -24,4 +24,4 @@ Le processus de prise de décision est respectueux, collaboratif et fondé sur l
 
 ### 5. Disponibilité
 
-La norme est atteinte par la discrimination contre les personnes ou l'effort. Les spécifications de la norme sont disponibles gratuitement dans un format ouvert et accessible.
+La norme est atteinte sans discrimination contre les personnes ou l'effort. Les spécifications de la norme sont disponibles gratuitement dans un format ouvert et accessible.
