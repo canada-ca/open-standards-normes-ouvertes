@@ -1,4 +1,7 @@
-[![Build Status](https://travis-ci.com/canada-ca/open-standards-normes-ouvertes.svg?branch=master)](https://travis-ci.com/canada-ca/open-standards-normes-ouvertes)
+[![Link Check](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/link-check.yml/badge.svg)](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/link-check.yml)
+[![Markdownlint](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/markdownlint.yml)
+[![Spellchecking](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/cspell.yml/badge.svg)](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/cspell.yml)
+[![pages-build-deployment](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/canada-ca/open-standards-normes-ouvertes/actions/workflows/pages/pages-build-deployment)
 
 ([Français](#normes-ouvertes))
 
