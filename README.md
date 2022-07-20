@@ -33,7 +33,7 @@ Official translation will be done once a first version is completed.
 
 ---
 
-# Logiciels libres
+# Normes ouvertes
 
 **Ébauche** de lignes directrices du Secrétariat du Conseil du Trésor du Canada sur les normes ouvertes.
 
